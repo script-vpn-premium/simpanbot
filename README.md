@@ -1,4 +1,4 @@
-# 🚀 Bot Regis VPN - Panduan Instalasi
+# 🚀 Bot Regis Script vps - Panduan Instalasi
 
 Panduan lengkap untuk menghapus versi lama dan mengaktifkan bot baru menggunakan PM2.
 
