@@ -47,3 +47,4 @@ pm2 startup
 ```
 ✅ Bot Sekarang Aktif dan
 ✅ Siap Digunakan!
+---
