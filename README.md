@@ -1,4 +1,4 @@
-🚀 Bot Regis Script vps - Panduan Instalasi
+Bot Regis Script vps - Panduan Instalasi
 Panduan lengkap untuk menghapus versi lama dan mengaktifkan bot baru menggunakan PM2.
 
 ---
@@ -22,7 +22,7 @@ rm -rf bot-regis-script
 ---
 
 3️⃣ Upload File Bot Baru via Termius
-Pindahkan file ZIP ke direktori
+3️⃣ Pindahkan file ZIP ke direktori
 ```bash
 cd /root  
 unzip bot\ regis\ script.zip  
@@ -45,7 +45,7 @@ node bot.js
 
 ---
 
-🔁 Bot Pakai PM2 (Agar Selalu Aktif)
+🔁 Pakai PM2 Agar Selalu Aktif
 ```bash
 npm install -g pm2  
 pm2 start bot.js --name botregis  
@@ -53,4 +53,5 @@ pm2 save
 pm2 startup
 ```
 
-Bot Sekarang Aktif dan Siap Digunakan!
+✅ Bot Sekarang Aktif dan
+✅ Siap Digunakan!
