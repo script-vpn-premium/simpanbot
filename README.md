@@ -22,6 +22,7 @@ rm -rf bot-regis-script
 ---
 
 3️⃣ Upload File Bot Baru via Termius
+
 3️⃣ Pindahkan file ZIP ke direktori
 ```bash
 cd /root  
