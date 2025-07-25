@@ -3,7 +3,7 @@ Panduan lengkap untuk menghapus versi lama dan mengaktifkan bot baru menggunakan
 
 ---
 
-1️⃣ Hapus Bot Lama (Jika Sebelumnya Pakai PM2)
+1️⃣ Hapus Bot Lama
 ```bash
 pm2 stop botregis  
 pm2 delete botregis  
@@ -22,7 +22,7 @@ rm -rf bot-regis-script
 ---
 
 3️⃣ Upload File Bot Baru via Termius
-Pindahkan file ZIP ke direktori `/root`, lalu:
+Pindahkan file ZIP ke direktori
 ```bash
 cd /root  
 unzip bot\ regis\ script.zip  
