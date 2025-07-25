@@ -45,7 +45,7 @@ node bot.js
 
 ---
 
-🔁 Jalankan Bot Pakai PM2 (Agar Selalu Aktif)
+🔁 Bot Pakai PM2 (Agar Selalu Aktif)
 ```bash
 npm install -g pm2  
 pm2 start bot.js --name botregis  
@@ -53,4 +53,4 @@ pm2 save
 pm2 startup
 ```
 
-Bot Kamu Sekarang Aktif dan Siap Digunakan!
+Bot Sekarang Aktif dan Siap Digunakan!
