@@ -118,7 +118,29 @@ Hapus bot lama
 ```bash
 pm2 delete simplebot && rm -rf /root/Simplebot && pm2 save && echo "✅ Bot simplebot berhasil dihapus dari PM2 dan folder /root/Simplebot dihapus."
 ```
-Untuk mengedit pengaturan, buka settings.js 
-dan sesuaikan token, owner, dll.
+
+buat filenya ntar di directory xray yang
+```bash
+nano /etc/xray/add-vmess
+```
+```bash
+nano /etc/xray/add-vless
+```
+```bash
+nano /etc/xray/add-trojan
+```
+
+
+Beri izin
+```bash
+chmod +x /etc/xray/add-vmess
+```
+```bash
+chmod +x /etc/xray/add-vless
+```
+```bash
+chmod +x /etc/xray/add-trojan
+```
+Apa lu anjing kau 
 
 
